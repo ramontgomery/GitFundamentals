@@ -6,3 +6,4 @@ Here is a growing collection of resources and helpful commands to knowwhen worki
 
 ## Git Commands
 - [git config](./config.md)
+- [git init](./init.md)
